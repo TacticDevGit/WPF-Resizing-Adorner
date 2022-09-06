@@ -1,0 +1,22 @@
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\bin\Debug\net6.0-windows\Adorners in WPF.exe
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\bin\Debug\net6.0-windows\Adorners in WPF.deps.json
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\bin\Debug\net6.0-windows\Adorners in WPF.runtimeconfig.json
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\bin\Debug\net6.0-windows\Adorners in WPF.dll
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\bin\Debug\net6.0-windows\ref\Adorners in WPF.dll
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\bin\Debug\net6.0-windows\Adorners in WPF.pdb
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF_MarkupCompile.cache
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF_MarkupCompile.lref
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.g.resources
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.dll
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\ref\Adorners in WPF.dll
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.pdb
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\Adorners in WPF.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\Adorners in WPF\Adorners in WPF\obj\Debug\net6.0-windows\App.baml

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43167cf4-71ce-4c03-8419-7ad32b743174": {
+      "ProjectGuid": "43167cf4-71ce-4c03-8419-7ad32b743174",
+      "DisplayName": "Adorners in WPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
